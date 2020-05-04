@@ -1,0 +1,16 @@
+     MY PROJECT: - SET UP A MONGODB SERVER WITH DOCKER
+                  -------------------------------------
+
+     I am going to show how to use Docker compose to create a Mongodb container and
+     access it using Mongo Express, the web-based Mongodb Admin interface
+
+     Requirment: -
+     1. You must have DOCKER installed on your computer
+     2. Installing Docker compose
+     3. Setting up Mongodb server using Docker compose
+     4. Setting up Mongodb database password
+     5. Changing Mongodb container name
+     6. Setting Mongo Express Access password
+
+     And now start the services: docker-compose up -d
+
